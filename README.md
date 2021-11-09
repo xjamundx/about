@@ -29,7 +29,7 @@
 
 ## WHAT DRAINS ME
 
-1. Not making a decision and moving forward
+1. Not making a decision (or not moving forward)
 2. Pointless meetings
 3. Fighting over who is in charge
 4. Politics or trying to “impress” people
