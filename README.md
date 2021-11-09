@@ -35,7 +35,7 @@
 4. Politics or trying to “impress” people
 5. Nitpicking at Big Ideas 
 
-## HOW I LIKE TO GET/GIVE FEEDBACK*
+## HOW I LIKE TO GET/GIVE FEEDBACK
 
 1. I love when people find bugs in my code and push me to test things harder
 2. I hate when people are nit-picky with my code though
